@@ -14,7 +14,7 @@ pip install torch numpy pygame matplotlib
 - `train_dqn.py`  
   → Main training script for the Dueling Double DQN agent with reward logging and model saving.
 
-- `test_dqn.py`  
+- `test.py`  
   → Standard test script that runs a short evaluation episode and prints performance stats.
 
 - `test.py`  
